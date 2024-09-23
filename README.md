@@ -20,3 +20,7 @@ Description de notre commit avec des informations sur l'evolution de notre proje
 ```bash
 git checkout -b NOM_BRANCHE
 ```
+
+Pour les bonne pratique, on va intégrer la notion de revue de code. Pour cela,
+on va créer une branche, faire des modifications, les evoyer sur le dépôt distant,
+puis créer un pull request pour demander une revue de code
